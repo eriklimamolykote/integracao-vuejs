@@ -1,3 +1,7 @@
+<!--
+  Original author: Leonardo Moura Leitão (with adaptations)
+  Contact: https://www.udemy.com/user/leonardomouraleitao/
+-->
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>

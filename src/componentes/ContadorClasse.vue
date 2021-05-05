@@ -1,3 +1,7 @@
+<!--
+  Original author: Leonardo Moura Leitão (with adaptations)
+  Contact: https://www.udemy.com/user/leonardomouraleitao/
+-->
 <template>
     <div>
         <h1>Contador (Classe)</h1>
